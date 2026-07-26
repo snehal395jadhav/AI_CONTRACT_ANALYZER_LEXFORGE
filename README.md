@@ -36,7 +36,7 @@ The platform combines deterministic contract analysis, Generative AI, Retrieval-
 
 It is designed for legal teams, procurement departments, compliance professionals, contract managers, business teams, and enterprise administrators.
 
-> **Disclaimer:** LexForge AI assists with contract review and document intelligence. It does not replace qualified legal professionals or constitute legal advice.
+> **Disclaimer:** LexForge AI assists with contract review and document intelligence, It is based on Internship Project of AI Engineer it make sure that make some demo contract to convert it in Legal Contract.
 
 ---
 
