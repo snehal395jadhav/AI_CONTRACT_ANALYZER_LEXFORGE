@@ -1,4 +1,4 @@
-![LexForge AI Header](https://capsule-render.vercel.app/api?type=waving\&color=0:2563eb,100:7c3aed\&height=220\&section=header\&text=LexForge%20AI%20v5.0\&fontSize=42\&fontColor=ffffff\&animation=fadeIn)
+![LexForge AI Header](https://capsule-render.vercel.app/api?type=waving\&color=0:2563eb,100:7c3aed\&height=220\&section=header\&text=LexForge%20AI%20(Contract_Maker_AI)\&fontSize=42\&fontColor=ffffff\&animation=fadeIn)
 
 <div align="center">
 
