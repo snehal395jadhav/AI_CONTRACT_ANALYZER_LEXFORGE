@@ -63,15 +63,10 @@ It is designed for legal teams, procurement departments, compliance professional
 
 ---
 
-# Demo
+## 🎥 Demo Preview
 
-<p align="center">
+👉 [Click here to watch full screen demo](https://screenrec.com/share/VETqvdOmFA)
 
-<img src="demo.gif" alt="LexForge AI Demo" width="900">
-
-</p>
-
-> Add your `demo.gif` file to the repository root or update the path above.
 
 ---
 
