@@ -65,6 +65,13 @@ It is designed for legal teams, procurement departments, compliance professional
 
 ## 🎥 Demo Preview
 
+
+<a href="https://screenrec.com/share/VETqvdOmFA" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CONTRACT_ANALYZER_LEXFORGE/main/Screenshot.png" alt="Rate Limiter Nexus Demo" width="95%"/>
+
+</a>
+
 👉 [Click here to watch full screen demo](https://screenrec.com/share/VETqvdOmFA)
 
 
